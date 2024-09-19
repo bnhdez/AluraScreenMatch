@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52fb8d72-5349-420d-8f6d-e5db1d866b4a" name="Changes" comment="paquete calculadora - polimorfismo">
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/calculos/Clasificacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/modelos/Episodio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="52fb8d72-5349-420d-8f6d-e5db1d866b4a" name="Changes" comment="modelo episodio e interfaz Clasificacion para estrellas">
+      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/modelos/Episodio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/modelos/Episodio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726705585569</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="modelo episodio e interfaz Clasificacion para estrellas">
+      <option name="closed" value="true" />
+      <created>1726706750905</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726706750905</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +158,7 @@
     <MESSAGE value="refactorar - Herencia" />
     <MESSAGE value="refactorar - duracion en minutos" />
     <MESSAGE value="paquete calculadora - polimorfismo" />
-    <option name="LAST_COMMIT_MESSAGE" value="paquete calculadora - polimorfismo" />
+    <MESSAGE value="modelo episodio e interfaz Clasificacion para estrellas" />
+    <option name="LAST_COMMIT_MESSAGE" value="modelo episodio e interfaz Clasificacion para estrellas" />
   </component>
 </project>
